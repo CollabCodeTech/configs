@@ -6,4 +6,9 @@
     "markdown-preview-enhanced.liveUpdate": true,
     "editor.fontLigatures": true,
     "editor.fontFamily": "Fira Code",
-}
+    "workbench.colorTheme": "Vulgocode Color Theme",
+    "emmet.includeLanguages": {
+      "javascript": "css"
+    }
+  }
+  
