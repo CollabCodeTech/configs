@@ -1,0 +1,33 @@
+{
+  "breadcrumbs.enabled": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 24,
+  "editor.parameterHints.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "eslint.alwaysShowStatus": true,
+  "eslint.autoFixOnSave": true,
+  "javascript.format.enable": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "material-icon-theme.folders.theme": "specific",
+  "prettier.eslintIntegration": true,
+  "terminal.integrated.fontSize": 14,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.colorTheme": "Dracula Soft",
+  "explorer.confirmDelete": false,
+  "terminal.explorerKind": "external",
+  "git.enableSmartCommit": true,
+  "explorer.confirmDragAndDrop": false
+}
