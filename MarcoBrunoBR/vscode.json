@@ -1,6 +1,7 @@
 {
     "window.zoomLevel": 3,
     "workbench.startupEditor": "newUntitledFile",
+    "window.titleBarStyle": "custom",
     "twitchHighlighter.channels": "marcobrunobr",
     "twitchHighlighter.nickname": "Gueio",
     "markdown-preview-enhanced.liveUpdate": true,
